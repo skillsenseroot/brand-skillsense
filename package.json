@@ -4,14 +4,14 @@
   "description": "The default branding and SASS theme package containing for Open edX applications. This package is designed to be copied and customized.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skillsenseai/brand-skillsense.git"
+    "url": "git+https://github.com/skillsenseroot/brand-skillsense.git"
   },
   "author": "Skillsense",
   "license": "",
   "bugs": {
-    "url": "https://github.com/skillsenseai/brand-skillsense/issues"
+    "url": "https://github.com/skillsenseroot/brand-skillsense/issues"
   },
-  "homepage": "https://github.com/skillsenseai/brand-skillsense#readme",
+  "homepage": "https://github.com/skillsenseroot/brand-skillsense#readme",
   "publishConfig": {
     "access": "restricted"
   }
